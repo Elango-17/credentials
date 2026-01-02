@@ -1,0 +1,1 @@
+{"Summary": "TC-0009: Addition test case 9", "Name": "Addition Test 9", "Issue Type": "Test", "Priority": "High", "Labels": "calculator,non-functional,api,automation-candidate", "Components": "CalculatorApp", "Test Steps": "1. Send API request\n2. Validate response", "Expected Result": "API returns correct sum", "Description": "API test case 9"}
