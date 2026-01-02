@@ -1,0 +1,1 @@
+{"Summary": "TC-0005: Addition test case 5", "Name": "Addition Test 5", "Issue Type": "Test", "Priority": "High", "Labels": "calculator,non-functional,performance,automation-candidate", "Components": "CalculatorApp", "Test Steps": "1. Execute load\n2. Measure response", "Expected Result": "Response under SLA", "Description": "Performance test case 5"}
